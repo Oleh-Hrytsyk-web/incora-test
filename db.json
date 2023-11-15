@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "userFeed",
+      "password": "Lviv"
+    }
+  ],
+  "userFeed": [
+    {
+      "id": "1",
+      "title": "Nasa",
+      "URL": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    },
+    {
+      "id": "2",
+      "title": "reddit",
+      "URL": "https://www.reddit.com/.rss"
+    },
+    {
+      "id": "3",
+      "title": "Mobile World Live",
+      "URL": "https://www.mobileworldlive.com/latest-stories/feed/"
+    }
+  ]
+}
